@@ -2,7 +2,3 @@
 
 ## NC Offshore Sites
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
